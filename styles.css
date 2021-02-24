@@ -1,0 +1,23 @@
+html {background-color: darkseagreen;}
+
+
+@font-face {
+font-family: 'Chapaza';
+src: url(fonts/Chapaza.ttf);
+}
+
+* {text-align: center; font-family: 'Chapaza', georgia, serif;}
+
+.yeet {font-weight: bold;}
+
+#Title {font-size: 40px;text-transform: capitalize;text-decoration: underline;}
+
+p {font-size: 20px;line-height: 50px;}
+
+h2{text-decoration: underline;}
+
+.bro{font-style: italic;}
+
+.Ayyy {text-shadow: 2px 2px 4px;}
+
+.Grogu {text-shadow: 2px 2px 4px;}
